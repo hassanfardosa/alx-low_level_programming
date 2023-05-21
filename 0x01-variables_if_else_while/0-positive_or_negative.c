@@ -2,8 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- main function 
-description: checking a number whether its positive or negative or zero */
+ *main function 
+ * description: checking a number whether its positive or negative or zer
+ *return :always 0
+ */
 int main(void)
 {
 	int n;
