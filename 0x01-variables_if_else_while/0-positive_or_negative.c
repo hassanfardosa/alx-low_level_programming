@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *main function 
- * description: checking a number whether its positive or negative or zer
+ *main -entry point 
+ * description: checking a number whether its positive or negative or zero
  *return :always 0
  */
 int main(void)
